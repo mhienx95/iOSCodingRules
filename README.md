@@ -93,4 +93,5 @@ guard let unwrap = optional else { return }
 `protocol` và `extension` về cơ bản nên được viết riêng sang file khác
 
 ## 8. Tài liệu tham khảo
+[swift-api-design](https://swift.org/documentation/api-design-guidelines/)
 [raywenderlich/swift-style-guide](https://github.com/raywenderlich/swift-style-guide#protocol-conformance)
